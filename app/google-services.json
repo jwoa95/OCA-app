@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730882523791",
+    "project_id": "oncall-app-4ceee",
+    "storage_bucket": "oncall-app-4ceee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730882523791:android:78a15ffb6f503e75c3a6fa",
+        "android_client_info": {
+          "package_name": "com.example.oncallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730882523791-15v2cufjfvfj2outk2m648t7om8p3s7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJKFVqikU55YMhkQNn-DktiGTCig7ZffY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730882523791-15v2cufjfvfj2outk2m648t7om8p3s7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:srcCompat="@drawable/ic_oca_logos_white" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:fontFamily="sans-serif"
+        android:layout_height="wrap_content"
+        android:text="Download Tickets" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:fontFamily="sans-serif"
+        android:layout_height="wrap_content"
+        android:text="View Tickets" />
+
+    <Button
+        android:id="@+id/tokenBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="200px"
+        android:fontFamily="sans-serif"
+        android:text="Token Setup" />
+
+</LinearLayout>

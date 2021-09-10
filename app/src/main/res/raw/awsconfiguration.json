@@ -1,0 +1,20 @@
+{
+  "Version": "1.0",
+  "IdentityManager": {
+    "Default": {}
+  },
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "eu-west-1:55ee27da-a21a-4035-9bcd-457a79999275",
+        "Region": "eu-west-1"
+      }
+    }
+  },
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "jwoakes-dissertation-2021-on-call",
+      "Region": "eu-west-1"
+    }
+  }
+}
